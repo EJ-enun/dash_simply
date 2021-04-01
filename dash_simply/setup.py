@@ -7,8 +7,8 @@ setup(
     description = 'Create dash view objects easily with reusable methods.',
     author = 'Enun Bassey Enun',
     author_email = 'enunenun21@gmail.com',
-    url = 'github package source url',
-    download_url = 'download link you saved',
+    url = 'https://github.com/EJ-enun/dash_simply/',
+    download_url = 'https://github.com/EJ-enun/dash_simply/archive/refs/tags/1.0.zip',
     keywords = ['Dash', 'Python'],
     classifiers = [],
 )
