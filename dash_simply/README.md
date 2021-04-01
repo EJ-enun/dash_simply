@@ -27,4 +27,4 @@ Slider View:
 slider = dash_simply.slider('sl', 0.0001, 0.1, 0.001, 0.001)
 
 Button:		
-button = ViewObject.button('but','Train', '100%', '60px' ) 
+button = dash_simply.button('but','Train', '100%', '60px' ) 
